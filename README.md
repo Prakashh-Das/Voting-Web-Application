@@ -21,7 +21,7 @@
 - Select Import
 - Select Projects from Git(with smart import) -> Next
 - Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git
+- In URI paste this url: https://github.com/Prakashh-Das/Voting-Web-Application.git
   -> Next
 -  Now in Local Destination
 
@@ -72,7 +72,7 @@
  -  Application will get Open.
 
  ### Try Javascript Version 
-url: https://swapnilbamble1438.github.io/VotingApplication/
+url: https://github.com/Prakashh-Das/Voting-Web-Application.git
 
 
 ### Some Screenshots of this Project:
@@ -94,6 +94,6 @@ url: https://swapnilbamble1438.github.io/VotingApplication/
 
 
 
-### Project Creator: Swapnil Bamble
+### Project Creator: Prakash Das
 
 
